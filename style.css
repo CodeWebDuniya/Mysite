@@ -1,14 +1,62 @@
 body {
     background-color:rgb(105, 202, 197)
 }
-h2{
-    color: rgb(202, 43, 43);
+h2:hover{
+    color: rgb(187, 144, 4);
+}
+h1:hover{
+    color: rgb(47, 0, 218);
 }
 
 hr{
-    background-color:rgb(154, 230, 183);
-    border-style:dotted none none;
-    border-color: rgb(19, 109, 97);
-    border-width: 5px;
-    width:100%;
+    background-color:#9bffbdef;
+    border-style:dotted none none none;
+    border-color: rgb(21, 45, 151);
+    border-width: 8px;
+    width:10%;
+}
+.s:hover{
+    background-color: rgb(235, 248, 118);
+}
+.r:hover{
+    color: crimson;
+}
+.p:hover{
+    color: crimson;
+}
+.q:hover{
+    color: crimson;
+}
+.o:hover{
+    color: crimson;
+}
+
+.m:hover{
+color: crimson}
+.x:hover{
+    color: rgb(red, green, blue);
+}
+body{
+    margin:0;
+}
+.top:hover{
+    background-color: rgb(255, 126, 6);
+    
+    bottom: 10px;
+    bottom: -2cm;
+    left: 7px;
+    
+    
+}
+.middle:hover{
+    background-color: white;
+}
+.bottom:hover{
+    background-color: rgb(71, 214, 71);
+
+    bottom: 2cm;
+    bottom: -2cm;
+    left: 7px;
+    
+
 }
